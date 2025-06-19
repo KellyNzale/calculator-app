@@ -1,0 +1,4 @@
+Faker==24.8.0
+pytest
+pytest-cov
+pytest-pylint
